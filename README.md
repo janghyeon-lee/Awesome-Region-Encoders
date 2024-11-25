@@ -38,3 +38,4 @@ Region encoders are machine learning frameworks designed to represent geographic
 - Treepedia ([link](https://senseable.mit.edu/treepedia))
 
 ## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=janghyeon-lee/Awesome-Region-Encoders&type=Date)](https://star-history.com/#janghyeon-lee/Awesome-Region-Encoders&Date)
