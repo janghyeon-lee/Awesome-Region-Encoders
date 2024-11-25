@@ -6,6 +6,9 @@ Region encoders are machine learning frameworks designed to represent geographic
 
 **This project is curated and maintained by [JangHyeon Lee](https://janghyeon-lee.github.io/) and [Min Namgung](https://minnamgung.github.io/), members of the [Knowledge Computing Lab](https://knowledge-computing.github.io/).**
 
+## Contents
+- [Geo-Foundation Models](#geo-foundation-models)
+
 ## Geo-Foundation Models
 - (*KDD '24*) Urban Foundation Models: A Survey ([paper](https://dl.acm.org/doi/pdf/10.1145/3637528.3671453), [code](https://github.com/usail-hkust/Awesome-Urban-Foundation-Models))
 - (*KDD '24*) ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations ([paper](https://dl.acm.org/doi/10.1145/3637528.3671992))
