@@ -34,7 +34,7 @@ Region encoders are machine learning frameworks designed to represent geographic
 - (*Nature Communications 24*) Scalable spatiotemporal prediction with Bayesian neural fields ([paper](https://www.nature.com/articles/s41467-024-51477-5), [code](https://github.com/google/bayesnf))
 - (*IJGIS 24*) DKNN: deep kriging neural network for interpretable geospatial interpolation ([paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2347316), [code](https://github.com/in1311/DKNN))
 
-## Datasets
+## Datasets & Benchmarks
 - OpenStreetMap ([link](https://www.openstreetmap.org/))
 - NYC Open Data ([link](https://opendata.cityofnewyork.us/))
 - USDA National Agriculture Imagery Program (NAIP) ([link](https://coast.noaa.gov/htdata/raster3/imagery/NY_NAIP_2015_8402/))
