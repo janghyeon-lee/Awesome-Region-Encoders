@@ -56,7 +56,7 @@ Region encoders are machine learning frameworks designed to represent geographic
 - (*WWW '23*) INCREASE: Inductive Graph Representation Learning for Spatio-Temporal Kriging ([paper](https://arxiv.org/abs/2302.02738), [code](https://github.com/zhengchuanpan/INCREASE))
 - (*Nature Communications '24*) Scalable spatiotemporal prediction with Bayesian neural fields ([paper](https://www.nature.com/articles/s41467-024-51477-5), [code](https://github.com/google/bayesnf))
 - (*SIGSPATIAL '24*) SAUC: Sparsity-Aware Uncertainty Calibration for Spatiotemporal Prediction with Graph Neural Networks ([paper](https://dl.acm.org/doi/10.1145/3678717.3691241), [code](https://github.com/AnonymousSAUC/SAUC))
-- (*KBS '24*) Inductive and adaptive graph convolution networks equipped with constraint task for spatial–temporal traffic data kriging ([paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123010730), [code](https://github.com/wtl52656/IAGCN)
+- (*KBS '24*) Inductive and adaptive graph convolution networks equipped with constraint task for spatial–temporal traffic data kriging ([paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123010730), [code](https://github.com/wtl52656/IAGCN))
 
 ### Spatiotemporal Extrapolation
 - (*KDD '23*) Graph Neural Processes for Spatio-Temporal Extrapolation ([paper](https://arxiv.org/abs/2305.18719), [code](https://github.com/hjf1997/STGNP))
