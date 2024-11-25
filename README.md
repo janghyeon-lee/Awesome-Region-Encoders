@@ -25,6 +25,8 @@ Region encoders are machine learning frameworks designed to represent geographic
 
 ## Downstream Tasks
 - (*Remote Sensing 20*) Random Forest Spatial Interpolation ([paper](https://www.mdpi.com/2072-4292/12/10/1687), [code](https://github.com/AleksandarSekulic/RFSI))
+- (*IJGIS 20*) Geographically neural network weighted regression for the accurate estimation of spatial non-stationarity ([paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2019.1707834), [code](https://github.com/zjuwss/gnnwr))
+- (*IJGIS 21*) Geographically and temporally neural network weighted regression for modeling spatiotemporal non-stationary relationships ([paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2020.1775836), [code](https://github.com/zjuwss/gnnwr))
 - (*AAAI 20*) Kriging Convolutional Networks ([paper](https://arxiv.org/pdf/2306.09463), [code](https://github.com/tufts-ml/kcn-torch))
 - (*NIPS 22*) Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations ([paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/cf70320e93c08b39b1b29a348097a376-Paper-Conference.pdf), [code](https://github.com/Graph-Machine-Learning-Group/spin))
 - (*SIGMOD 23*) SSIN: Self-Supervised Learning for Rainfall Spatial Interpolation ([paper](https://arxiv.org/abs/2311.15530), [code](https://github.com/jlidw/SSIN))
