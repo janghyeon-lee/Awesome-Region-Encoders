@@ -25,6 +25,7 @@ Region encoders are machine learning frameworks designed to represent geographic
 - (*AAAI 24*) Urban Region Embedding via Multi-View Contrastive Prediction ([paper](https://arxiv.org/pdf/2312.09681), [code](https://github.com/lizc-sdu/ReCP))
 
 ## Downstream Tasks
+### Spatial Interpolation 
 - (*Remote Sensing 20*) Random Forest Spatial Interpolation ([paper](https://www.mdpi.com/2072-4292/12/10/1687), [code](https://github.com/AleksandarSekulic/RFSI))
 - (*IJGIS 20*) Geographically neural network weighted regression for the accurate estimation of spatial non-stationarity ([paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2019.1707834), [code](https://github.com/zjuwss/gnnwr))
 - (*AAAI 20*) Kriging Convolutional Networks ([paper](https://arxiv.org/pdf/2306.09463), [code](https://github.com/tufts-ml/kcn-torch))
