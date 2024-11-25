@@ -36,8 +36,10 @@ Region encoders are machine learning frameworks designed to represent geographic
 - (*IJGIS '24*) DKNN: deep kriging neural network for interpretable geospatial interpolation ([paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2347316), [code](https://github.com/in1311/DKNN))
 
 ### Spatiotemporal Prediction
+- (*AAAI '21*) Inductive Graph Neural Networks for Spatiotemporal Kriging ([paper](https://arxiv.org/abs/2006.07527), [code](https://github.com/Kaimaoge/IGNNK))
 - (*IJGIS '21*) Geographically and temporally neural network weighted regression for modeling spatiotemporal non-stationary relationships ([paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2020.1775836), [code](https://github.com/zjuwss/gnnwr))
 - (*NIPS '22*) Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations ([paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/cf70320e93c08b39b1b29a348097a376-Paper-Conference.pdf), [code](https://github.com/Graph-Machine-Learning-Group/spin))
+- (*TNNLS '23*) Decoupling Long- and Short-Term Patterns in Spatiotemporal Inference ([paper](https://arxiv.org/abs/2109.09506), [code](https://github.com/hjf1997/DualSTN))
 - (*WWW '23) INCREASE: Inductive Graph Representation Learning for Spatio-Temporal Kriging ([paper](https://arxiv.org/abs/2302.02738), [code](https://github.com/zhengchuanpan/INCREASE))
 - (*Nature Communications '24*) Scalable spatiotemporal prediction with Bayesian neural fields ([paper](https://www.nature.com/articles/s41467-024-51477-5), [code](https://github.com/google/bayesnf))
 - (*SIGSPATIAL '24*) SAUC: Sparsity-Aware Uncertainty Calibration for Spatiotemporal Prediction with Graph Neural Networks ([paper](https://dl.acm.org/doi/10.1145/3678717.3691241), [code](https://github.com/AnonymousSAUC/SAUC))
