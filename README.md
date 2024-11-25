@@ -29,4 +29,11 @@ Region encoders are machine learning frameworks designed to represent geographic
 - (*NIPS 22*) Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations ([paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/cf70320e93c08b39b1b29a348097a376-Paper-Conference.pdf), [code](https://github.com/Graph-Machine-Learning-Group/spin))
 - (*Nature Communications 24*) Scalable spatiotemporal prediction with Bayesian neural fields ([paper](https://www.nature.com/articles/s41467-024-51477-5), [code](https://github.com/google/bayesnf))
 
+## Datasets
+- OpenStreetMap ([link](https://www.openstreetmap.org/))
+- NYC Open Data ([link](https://opendata.cityofnewyork.us/))
+- USDA National Agriculture Imagery Program (NAIP) ([link](https://coast.noaa.gov/htdata/raster3/imagery/NY_NAIP_2015_8402/))
+- Global Streetscapes ([link](https://huggingface.co/datasets/NUS-UAL/global-streetscapes))
+- Treepedia ([link](https://senseable.mit.edu/treepedia))
+
 ## Star History
