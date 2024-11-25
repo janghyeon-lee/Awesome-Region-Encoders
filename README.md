@@ -19,7 +19,7 @@ Region encoders are machine learning frameworks designed to represent geographic
 ## Geo-Foundation Models
 - (*KDD '24*) Urban Foundation Models: A Survey ([paper](https://dl.acm.org/doi/pdf/10.1145/3637528.3671453), [code](https://github.com/usail-hkust/Awesome-Urban-Foundation-Models))
 - (*KDD '24*) ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations ([paper](https://dl.acm.org/doi/10.1145/3637528.3671992))
-- (*arXiv '25*) General Geospatial Inference with a Population Dynamics Foundation Model ([paper](https://arxiv.org/pdf/2411.07207), [code](https://github.com/google-research/population-dynamics))
+- (*arXiv '24*) General Geospatial Inference with a Population Dynamics Foundation Model ([paper](https://arxiv.org/pdf/2411.07207), [code](https://github.com/google-research/population-dynamics))
   
 ## Graph-based Models
 - (*CIKM '19*) Unsupervised Representation Learning of Spatial Data via Multimodal Embedding ([paper](https://dl.acm.org/doi/10.1145/3357384.3358001), [code](https://github.com/porterjenkins/region-encoder))
