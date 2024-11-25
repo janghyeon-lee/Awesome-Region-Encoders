@@ -38,6 +38,7 @@ Region encoders are machine learning frameworks designed to represent geographic
 - (*NIPS 22*) Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations ([paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/cf70320e93c08b39b1b29a348097a376-Paper-Conference.pdf), [code](https://github.com/Graph-Machine-Learning-Group/spin))
 - (*Nature Communications 24*) Scalable spatiotemporal prediction with Bayesian neural fields ([paper](https://www.nature.com/articles/s41467-024-51477-5), [code](https://github.com/google/bayesnf))
 - (*SIGSPATIAL 24*) SAUC: Sparsity-Aware Uncertainty Calibration for Spatiotemporal Prediction with Graph Neural Networks ([paper](https://dl.acm.org/doi/10.1145/3678717.3691241), [code](https://github.com/AnonymousSAUC/SAUC))
+- (*EDBT 24*) Spatial-temporal Forecasting for Regions without Observations ([paper](https://openproceedings.org/2024/conf/edbt/paper-123.pdf), [code](https://github.com/suzy0223/STSM))
 
 ## Datasets & Benchmarks
 - OpenStreetMap ([link](https://www.openstreetmap.org/))
