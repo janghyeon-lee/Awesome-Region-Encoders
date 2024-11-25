@@ -17,6 +17,8 @@ Region encoders are machine learning frameworks designed to represent geographic
 - [Datasets & Benchmarks](#datasets--benchmarks)
 
 ## Geo-Foundation Models
+- (*arXiv '23*) SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery ([paper](https://arxiv.org/abs/2311.17179), [code](https://github.com/microsoft/satclip))
+- (*NIPS '24*) GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization ([paper](https://arxiv.org/abs/2309.16020), [code](https://github.com/VicenteVivan/geo-clip))
 - (*KDD '24*) Urban Foundation Models: A Survey ([paper](https://dl.acm.org/doi/pdf/10.1145/3637528.3671453), [code](https://github.com/usail-hkust/Awesome-Urban-Foundation-Models))
 - (*KDD '24*) ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations ([paper](https://dl.acm.org/doi/10.1145/3637528.3671992))
 - (*ICML '24*) Community search signatures as foundation features for human-centered geospatial modeling ([paper](https://arxiv.org/pdf/2410.22721))
