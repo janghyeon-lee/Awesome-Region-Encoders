@@ -23,4 +23,10 @@ Region encoders are machine learning frameworks designed to represent geographic
 - (*WWW 24 Oral*) UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web ([paper](https://arxiv.org/pdf/2310.18340), [code](https://github.com/stupidbuluchacha/urbanclip), [review](https://openreview.net/forum?id=KCZU12jzfC&referrer=%5Bthe%20profile%20of%20Yuxuan%20Liang%5D(%2Fprofile%3Fid%3D~Yuxuan_Liang1)))
 - (*AAAI 24*) Urban Region Embedding via Multi-View Contrastive Prediction ([paper](https://arxiv.org/pdf/2312.09681), [code](https://github.com/lizc-sdu/ReCP))
 
+## Downstream Tasks
+- (*Remote Sensing 20*) Random Forest Spatial Interpolation ([paper](https://www.mdpi.com/2072-4292/12/10/1687), [code](https://github.com/AleksandarSekulic/RFSI))
+- (*AAAI 20*) Kriging Convolutional Networks ([paper](https://arxiv.org/pdf/2306.09463), [code](https://github.com/tufts-ml/kcn-torch))
+- (*NIPS 22*) Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations ([paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/cf70320e93c08b39b1b29a348097a376-Paper-Conference.pdf), [code](https://github.com/Graph-Machine-Learning-Group/spin))
+- (*Nature Communications 24*) Scalable spatiotemporal prediction with Bayesian neural fields ([paper](https://www.nature.com/articles/s41467-024-51477-5), [code](https://github.com/google/bayesnf))
+
 ## Star History
