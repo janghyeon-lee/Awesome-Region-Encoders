@@ -8,19 +8,26 @@ Region encoders are machine learning frameworks designed to represent geographic
 
 ## Contents
 - [Geo-Foundation Models](#geo-foundation-models)
+- [Graph-based Models](#graph-based-models)
+- [Contrastive Learning-based Models](#contrastive-learning-based-models)
+- [Downstream Tasks](#downstream-tasks)
+  - [Spatial Interpolation](#spatial-interpolation)
+  - [Spatiotemporal Prediction](#spatiotemporal-prediction)
+  - [Spatiotemporal Extrapolation](#spatiotemporal-extrapolation)
+- [Datasets & Benchmarks](#datasets--benchmarks)
 
 ## Geo-Foundation Models
 - (*KDD '24*) Urban Foundation Models: A Survey ([paper](https://dl.acm.org/doi/pdf/10.1145/3637528.3671453), [code](https://github.com/usail-hkust/Awesome-Urban-Foundation-Models))
 - (*KDD '24*) ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations ([paper](https://dl.acm.org/doi/10.1145/3637528.3671992))
 - (*arXiv '25*) General Geospatial Inference with a Population Dynamics Foundation Model ([paper](https://arxiv.org/pdf/2411.07207), [code](https://github.com/google-research/population-dynamics))
   
-## Graph-based
+## Graph-based Models
 - (*CIKM '19*) Unsupervised Representation Learning of Spatial Data via Multimodal Embedding ([paper](https://dl.acm.org/doi/10.1145/3357384.3358001), [code](https://github.com/porterjenkins/region-encoder))
 - (*IJCAI '21*) Multi-view joint graph representation learning for urban region embedding ([paper](https://www.ijcai.org/proceedings/2020/0611.pdf), [code](https://github.com/mingyangzhang/mv-region-embedding/tree/master))
 - (*KDD '23*) Spatial Heterophily Aware Graph Neural Networks ([paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599510), [code](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/SHGNN))
 - (*ICDE '24*) HAFusion: Urban Region Representation Learning with Attentive Fusion ([paper](https://arxiv.org/abs/2312.04606), [code](https://github.com/MiRuacle24/HAFusion))
 
-## Contrastive Learning-based
+## Contrastive Learning-based Models
 - (*TKDE '22*) Region Embedding With Intra and Inter-View Contrastive Learning ([paper](https://arxiv.org/pdf/2211.08975), [code](https://github.com/Liang-NTU/ReMVC))
 - (*WWW '22*) Beyond the First Law of Geography: Learning Representations of Satellite Imagery by Leveraging Point-of-Interests ([paper](https://dl.acm.org/doi/10.1145/3485447.3512149), [code](https://github.com/axin1301/satellite-imagery-POI))
 - (*WWW '23*) Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction ([paper](https://dl.acm.org/doi/10.1145/3543507.3583876), [code](https://github.com/tsinghua-fib-lab/UrbanKG-KnowCL))
