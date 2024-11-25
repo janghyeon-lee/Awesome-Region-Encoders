@@ -8,6 +8,7 @@ Region encoders are machine learning frameworks designed to represent geographic
 
 ## Geo-Foundation Models
 - (*KDD 24*) Urban Foundation Models: A Survey ([paper](https://dl.acm.org/doi/pdf/10.1145/3637528.3671453), [code](https://github.com/usail-hkust/Awesome-Urban-Foundation-Models))
+- (*KDD 24*) ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations ([paper](https://dl.acm.org/doi/10.1145/3637528.3671992))
 - (*arXiv 25*) General Geospatial Inference with a Population Dynamics Foundation Model ([paper](https://arxiv.org/pdf/2411.07207), [code](https://github.com/google-research/population-dynamics))
   
 ## Graph-based
@@ -31,6 +32,7 @@ Region encoders are machine learning frameworks designed to represent geographic
 - (*NIPS 22*) Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations ([paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/cf70320e93c08b39b1b29a348097a376-Paper-Conference.pdf), [code](https://github.com/Graph-Machine-Learning-Group/spin))
 - (*SIGMOD 23*) SSIN: Self-Supervised Learning for Rainfall Spatial Interpolation ([paper](https://arxiv.org/abs/2311.15530), [code](https://github.com/jlidw/SSIN))
 - (*Nature Communications 24*) Scalable spatiotemporal prediction with Bayesian neural fields ([paper](https://www.nature.com/articles/s41467-024-51477-5), [code](https://github.com/google/bayesnf))
+- (*IJGIS 24*) DKNN: deep kriging neural network for interpretable geospatial interpolation ([paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2347316), [code](https://github.com/in1311/DKNN))
 
 ## Datasets
 - OpenStreetMap ([link](https://www.openstreetmap.org/))
