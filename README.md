@@ -34,6 +34,7 @@ Region encoders are machine learning frameworks designed to represent geographic
 - (*SIGMOD 23*) SSIN: Self-Supervised Learning for Rainfall Spatial Interpolation ([paper](https://arxiv.org/abs/2311.15530), [code](https://github.com/jlidw/SSIN))
 - (*Nature Communications 24*) Scalable spatiotemporal prediction with Bayesian neural fields ([paper](https://www.nature.com/articles/s41467-024-51477-5), [code](https://github.com/google/bayesnf))
 - (*IJGIS 24*) DKNN: deep kriging neural network for interpretable geospatial interpolation ([paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2347316), [code](https://github.com/in1311/DKNN))
+- (*SIGSPATIAL 24*) SAUC: Sparsity-Aware Uncertainty Calibration for Spatiotemporal Prediction with Graph Neural Networks ([paper](https://dl.acm.org/doi/10.1145/3678717.3691241), [code](https://github.com/AnonymousSAUC/SAUC))
 
 ## Datasets & Benchmarks
 - OpenStreetMap ([link](https://www.openstreetmap.org/))
