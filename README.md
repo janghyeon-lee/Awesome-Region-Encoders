@@ -14,6 +14,7 @@ Region encoders are machine learning frameworks designed to represent geographic
   - [Spatial Interpolation](#spatial-interpolation)
   - [Spatiotemporal Prediction](#spatiotemporal-prediction)
   - [Spatiotemporal Extrapolation](#spatiotemporal-extrapolation)
+- [Evaluation Metrics](#evaluation-metrics)
 - [Datasets & Benchmarks](#datasets--benchmarks)
 
 ## Geo-Foundation Models
