@@ -30,6 +30,7 @@ Region encoders are machine learning frameworks designed to represent geographic
 - (*IJCAI '21*) Multi-view joint graph representation learning for urban region embedding ([paper](https://www.ijcai.org/proceedings/2020/0611.pdf), [code](https://github.com/mingyangzhang/mv-region-embedding/tree/master))
 - (*KDD '23*) Spatial Heterophily Aware Graph Neural Networks ([paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599510), [code](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/SHGNN))
 - (*ICDE '24*) HAFusion: Urban Region Representation Learning with Attentive Fusion ([paper](https://arxiv.org/abs/2312.04606), [code](https://github.com/MiRuacle24/HAFusion))
+- (*arXiv '25*) Urban Region Representation Learning: A Flexible Approach ([paper](https://arxiv.org/pdf/2503.09128))
 
 ## Contrastive Learning-based Models
 - (*TKDE '22*) Region Embedding With Intra and Inter-View Contrastive Learning ([paper](https://arxiv.org/pdf/2211.08975), [code](https://github.com/Liang-NTU/ReMVC))
