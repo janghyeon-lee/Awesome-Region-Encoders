@@ -37,6 +37,8 @@ Region encoders are machine learning frameworks designed to represent geographic
 - (*WWW '23*) Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction ([paper](https://dl.acm.org/doi/10.1145/3543507.3583876), [code](https://github.com/tsinghua-fib-lab/UrbanKG-KnowCL))
 - (*WWW '24 Oral*) UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web ([paper](https://arxiv.org/pdf/2310.18340), [code](https://github.com/stupidbuluchacha/urbanclip), [review](https://openreview.net/forum?id=KCZU12jzfC&referrer=%5Bthe%20profile%20of%20Yuxuan%20Liang%5D(%2Fprofile%3Fid%3D~Yuxuan_Liang1)))
 - (*AAAI '24*) Urban Region Embedding via Multi-View Contrastive Prediction ([paper](https://arxiv.org/pdf/2312.09681), [code](https://github.com/lizc-sdu/ReCP))
+- (*CIKM '24*) City Foundation Models for Learning General Purpose Representations from OpenStreetMap ([paper]([https://arxiv.org/pdf/2312.09681](https://dl.acm.org/doi/10.1145/3627673.3679662)))
+
 
 ## Downstream Tasks
 ### Spatial Interpolation 
